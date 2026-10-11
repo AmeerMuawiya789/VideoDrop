@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- BEFORE UPLOADING: replace https://videodrop.vercel.app with your real site URL everywhere in this file -->
-<urlset xmlns="video-drop-five.vercel.app/sitemap/0.9">
-  <url>
-    <loc>https://videodrop.vercel.app/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
