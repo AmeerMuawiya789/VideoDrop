@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # BEFORE UPLOADING: replace https://videodrop.vercel.app with your real site URL
-Sitemap: https://videodrop.vercel.app/sitemap.xml
+Sitemap: video-drop-five.vercel.app/sitemap.xml
